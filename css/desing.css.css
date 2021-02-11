@@ -1,0 +1,23 @@
+/SELECTOR/    
+    .titulo_1{
+     color: green; /cambia color de texto/
+        text-align: center; /centra el texto/
+        font font-size: 40px; /cambia el tamaño de texto/
+        font-family: sans-serif; /cambia la fuente de texto/ 
+        border: 8px dotted blue;
+        background-color: aqua;
+       }
+
+
+    .img_fruta{ 
+    width: 200;
+    height: 200;
+        border: 8px dotted blue;
+        border-radius: 50px; 
+    }
+
+    <p>{ 
+    background-color: green;
+    
+    
+}
